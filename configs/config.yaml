@@ -5,5 +5,6 @@ volume_folder: "CHANGE_ME"
 model_name:  "google/medgemma-27b-text-it"
 revision: "6b08c481126ff65a9b8fa5ab4d691b152b8edb5d"
 secret_scope: "CHANGE_ME"
-secret_key: "CHANGE_ME"
+secret_key: "HF_KEY"
 served_model_name: "CHANGE_ME"
+quantization_type: "4bit" #Can be 4bit or 8bit
