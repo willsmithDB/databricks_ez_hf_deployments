@@ -1,6 +1,0 @@
-transformers==4.55.4
-accelerate==1.10.1
-huggingface_hub==0.34.4
-Pillow==11.3.0
-flask==3.1.2
-bitsandbytes==0.47.0
