@@ -1,0 +1,10 @@
+catalog_name: "users"
+schema_name: "will_smith"
+volume_name: "medgemma_weights"
+volume_folder: "quantized"
+model_name:  "google/medgemma-27b-text-it"
+revision: "6b08c481126ff65a9b8fa5ab4d691b152b8edb5d"
+secret_scope: "william_smith_secrets"
+secret_key: "HF_KEY"
+served_model_name: "ws_medgemma_27b_quantized_endpoint"
+quantization_type: "4bit" #Can be None, 4bit, or 8bit
