@@ -1,0 +1,10 @@
+catalog_name: "CHANGE_ME"
+schema_name: "CHANGE_ME"
+volume_name: "CHANGE_ME"
+volume_folder: "CHANGE_ME"
+model_name:  "allenai/olmOCR-7B-0825"
+revision: "e14b3cfbf2f0b85ed95cac9c86017f7abc3e7194"
+secret_scope: "CHANGE_ME"
+secret_key: "HF_KEY"
+served_model_name: "CHANGE_ME"
+quantization_type: "None" #Can be None, 4bit, or 8bit
