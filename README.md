@@ -5,6 +5,9 @@ Complete workflows for deploying different types of Hugging Face models on Datab
 # Disclaimer
 **This is not an official Databricks asset. There are no guarantees and code is subject to change. Use as reference at your own risk.**
 
+## Special Thanks
+Thank you to srijit.nai@databricks.com and eli.swanson@databricks.com for all of your help with work preceding this repo! 
+
 ## Overview
 
 This project provides two distinct deployment workflows for Hugging Face models on Databricks:
